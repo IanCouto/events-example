@@ -7,7 +7,7 @@
   "workers": 4,
   "events": {
     "example": {
-      "sender": "vtex.events-example",
+      "sender": "logicinfopartnerbr.events-example",
       "keys": ["send-event"]
     }
   },
